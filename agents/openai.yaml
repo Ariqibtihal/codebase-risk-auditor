@@ -1,0 +1,4 @@
+interface:
+  display_name: Codebase Risk Auditor
+  short_description: Audit software projects for security, scalability, maintainability, reliability, and production readiness.
+  icon: 🛡️
